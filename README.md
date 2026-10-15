@@ -79,7 +79,7 @@ Some advanced techniques in the notebook are demonstrated as **prompt patterns**
 - Self-consistency is demonstrated at the prompt level rather than by aggregating many independent model runs.
 - Tree-of-thought is demonstrated through structured prompting rather than a separate search algorithm.
 
-These distinctions are intentional so the repository accurately reflects what is implemented.
+The cleaned notebook has cleared outputs and was not freshly executed against the API during the portfolio cleanup.
 
 ## Possible Next Improvements
 
