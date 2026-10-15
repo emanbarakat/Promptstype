@@ -1,6 +1,6 @@
 # LLM Prompting Lab
 
-A practical prompt-engineering notebook that explores how different prompting strategies influence LLM responses.
+A practical prompt-engineering learning notebook that explores how different prompting strategies influence LLM responses.
 
 The project was cleaned and structured as a portfolio-ready lab rather than a course/week-based notebook. It uses the OpenAI API and keeps credentials outside the repository.
 
@@ -40,7 +40,7 @@ The notebook includes hands-on examples of:
 ## Repository Structure
 
 ```text
-Promptstype/
+llm-prompting-lab/
 ├── llm_prompting_techniques.ipynb
 ├── requirements.txt
 ├── .gitignore
@@ -93,5 +93,3 @@ These distinctions are intentional so the repository accurately reflects what is
 ## Author
 
 **Eman Barakat**
-
-AI & Software Development | LLMs | Generative AI
